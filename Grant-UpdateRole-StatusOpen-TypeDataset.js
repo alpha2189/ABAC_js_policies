@@ -1,5 +1,5 @@
 /*
-* PISTIS JS Policy to grant access for UpdateRole to resources with attribute Status=Open and Type=Dataset
+* JS Policy to grant access for UpdateRole to resources with attribute Status=Open and Type=Dataset
 *
  */
 
