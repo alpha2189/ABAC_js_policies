@@ -1,5 +1,5 @@
 /*
-* PISTIS JS Policy to grant access for user CreateRole to resources with attribute Condition=NotSold and Type=Datastream
+*JS Policy to grant access for user CreateRole to resources with attribute Condition=NotSold and Type=Datastream
 *
  */
 
