@@ -1,5 +1,5 @@
 /*
-* PISTIS JS Policy to grant access to user for DeleteRole to resources with attribute Status=Closed and Condition=Sold and TypeOfDocument=Dataset
+* JS Policy to grant access to user for DeleteRole to resources with attribute Status=Closed and Condition=Sold and TypeOfDocument=Dataset
 *
  */
 
