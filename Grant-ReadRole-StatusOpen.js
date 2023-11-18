@@ -1,5 +1,5 @@
 /*
-* PISTIS TestJSPolicy1 to grant access for user = ReadRole to resources with attribute status=Open
+* TestJSPolicy1 to grant access for user = ReadRole to resources with attribute status=Open
 *
  */
 
