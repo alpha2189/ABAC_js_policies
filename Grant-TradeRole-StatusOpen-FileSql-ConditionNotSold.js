@@ -1,5 +1,5 @@
 /*
-* PISTIS JS Policy to grant access for user TradeRole to resources with attribute Status=Open and Condition=NotSold and File=.sql
+* JS Policy to grant access for user TradeRole to resources with attribute Status=Open and Condition=NotSold and File=.sql
 *
  */
 
